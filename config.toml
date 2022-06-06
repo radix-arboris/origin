@@ -6,10 +6,10 @@ theme = "hugrid"
 
 googleAnalytics = "UA-XXXXXXXX-Y"
 
-contentdir = "docs"
+contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 
 [params]
     title = "Origin"
