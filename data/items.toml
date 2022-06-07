@@ -5,7 +5,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgoldsteinre
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://threatpost.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -16,7 +17,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.c
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://thehackernews.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -27,7 +29,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.c
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.bleepingcomputer.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -38,7 +41,8 @@ thumb = "https://securityboulevard.com/wp-content/themes/colormag-pro/img/securi
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://securityboulevard.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -49,7 +53,8 @@ thumb = "https://securityaffairs.co/wordpress/wp-content/uploads/2015/12/logo_Se
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://securityaffairs.co/"
-isyt = "no"
+category = ""
+twt=""
 [[items]]
 
 title = "Hugrid Theme"
@@ -58,7 +63,8 @@ thumb = "https://www.theregister.com/design_picker/fa16d26efb42e6ba1052f1d387470
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.theregister.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -69,7 +75,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stjohnpa
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.pentestpartners.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -80,18 +87,20 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F37prime.com%
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://arstechnica.com/information-technology/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
 
 title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhealth-de.journalismgrants.org%2Fuploads%2Flogos%2FThe_Atlantic_magazine_logo.svg.png&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhealth-de.journalismgrants.org%2Fuploads%2Flogos%2FThe_Atlantic_magazine_logo.svg.png&f=1&nofb=1"
+image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F71-713377_file-the-atlantic-magazine-atlantic-magazine-logo-clipart.png&f=1&nofb=1"
+thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F71-713377_file-the-atlantic-magazine-atlantic-magazine-logo-clipart.png&f=1&nofb=1"
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.theatlantic.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -102,7 +111,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fforescout-w
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.darkreading.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -113,7 +123,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.c
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.welivesecurity.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -124,7 +135,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvpnreviewz.
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://krebsonsecurity.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -135,7 +147,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftherecord.m
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://therecord.media/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -146,7 +159,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.wired.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -157,7 +171,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.zdnet.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -168,7 +183,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://blog.emsisoft.com/en/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -179,7 +195,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://finance.yahoo.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -190,7 +207,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.bloomberg.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -201,7 +219,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://medium.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -212,7 +231,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.boldonj
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.varonis.com/blog"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -223,7 +243,8 @@ thumb = "https://nightlion.com/wp-content/uploads/2020/11/main-logo.png"
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://nightlion.com/blog/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -234,7 +255,8 @@ thumb = "https://www.proofpoint.com/themes/custom/proofpoint/dist/app-drupal/ass
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.proofpoint.com/us/blog"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -245,7 +267,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://blog.malwarebytes.com/malwarebytes-news/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -256,7 +279,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.theepochtimes.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -267,7 +291,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.dailywire.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -278,7 +303,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.cnbc.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -289,7 +315,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.cnn.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -300,7 +327,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.msnbc.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -311,7 +339,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.yahoo.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -322,7 +351,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.nytimes.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -333,7 +363,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.washingtonpost.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -344,7 +375,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fftllp.com%2
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.foxnews.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -355,7 +387,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.foxbusiness.com/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -366,7 +399,8 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.politico.eu/"
-isyt = "no"
+category = ""
+twt=""
 
 
 [[items]]
@@ -377,7 +411,26 @@ thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bin
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.reuters.com/"
-isyt = "no"
+category = ""
+twt=""
+
+[[items]]
+
+title = "Hugrid Theme"
+image = "http://www.realclearlife.com/wp-content/uploads/2016/06/white-house-logo-final-hed-2016.jpg"
+thumb = "http://www.realclearlife.com/wp-content/uploads/2016/06/white-house-logo-final-hed-2016.jpg"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.whitehouse.gov/briefing-room/statements-releases/"
+
+[[items]]
+
+title = "Hugrid Theme"
+image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectemployers.org%2Fwp-content%2Fuploads%2FUS-House-of-Representatives-Seal.jpg&f=1&nofb=1"
+thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectemployers.org%2Fwp-content%2Fuploads%2FUS-House-of-Representatives-Seal.jpg&f=1&nofb=1"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.govtrack.us/congress/bills/"
 
 
 [[items]]
@@ -388,18 +441,74 @@ thumb = "https://www.commerce.gov/themes/custom/commerce/assets/img/doc_logo.png
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.commerce.gov/news/press-releases"
-isyt = "no"
-
+category = ""
+twt=""
 
 [[items]]
 
 title = "Hugrid Theme"
-image = "https://www.justice.gov/sites/default/files/header-logo_bronze-resized-5-2.png"
-thumb = "https://www.justice.gov/sites/default/files/header-logo_bronze-resized-5-2.png"
+image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FSeal_of_the_United_States_Department_of_Justice.svg%2F1200px-Seal_of_the_United_States_Department_of_Justice.svg.png&f=1&nofb=1"
+thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FSeal_of_the_United_States_Department_of_Justice.svg%2F1200px-Seal_of_the_United_States_Department_of_Justice.svg.png&f=1&nofb=1"
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.justice.gov/blogs"
+category = ""
+twt=""
 
+[[items]]
+
+title = "StevenCrowder"
+image = "https://yt3.ggpht.com/ytc/AKedOLQtnyCmSVCzGioj-9zXHA6ZXPyee6M3cAAd8JiAYQ=s88-c-k-c0x00ffffff-no-rj"
+thumb = "https://yt3.ggpht.com/ytc/AKedOLQtnyCmSVCzGioj-9zXHA6ZXPyee6M3cAAd8JiAYQ=s88-c-k-c0x00ffffff-no-rj"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.youtube.com/c/StevenCrowder"
+category = ""
+twt=""
+
+[[items]]
+
+title = "Timcast"
+image = "https://yt3.ggpht.com/ytc/AKedOLRU445nwacnY42vQ_zCenDmRqFitB8y_z8jit8xpQ=s88-c-k-c0x00ffffff-no-rj"
+thumb = "https://yt3.ggpht.com/ytc/AKedOLRU445nwacnY42vQ_zCenDmRqFitB8y_z8jit8xpQ=s88-c-k-c0x00ffffff-no-rj"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.youtube.com/c/Timcast"
+category = ""
+twt=""
+
+[[items]]
+
+title = "BenShapiro"
+image = "https://yt3.ggpht.com/1t8q47MBwbHm3FjFZrRyussQka5xD_TEwSA6wPyxjhN5jSAkpnN0EXHayeEXBr5vJ8URphtt=s88-c-k-c0x00ffffff-no-rj"
+thumb = "https://yt3.ggpht.com/1t8q47MBwbHm3FjFZrRyussQka5xD_TEwSA6wPyxjhN5jSAkpnN0EXHayeEXBr5vJ8URphtt=s88-c-k-c0x00ffffff-no-rj"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.youtube.com/c/BenShapiro"
+category = ""
+twt=""
+
+[[items]]
+
+title = "MichaelKnowles"
+image = "https://yt3.ggpht.com/RvHzp3xzJ3x9dGeQW0071whQjtoykWA3tFC-KV8xNn-po-9ZwJqIKFVaFzHWX0sjlsOjzehDzQ=s88-c-k-c0x00ffffff-no-rj"
+thumb = "https://yt3.ggpht.com/RvHzp3xzJ3x9dGeQW0071whQjtoykWA3tFC-KV8xNn-po-9ZwJqIKFVaFzHWX0sjlsOjzehDzQ=s88-c-k-c0x00ffffff-no-rj"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.youtube.com/c/MichaelKnowles"
+category = ""
+twt=""
+
+[[items]]
+
+title = "Candaceshow"
+image = "https://yt3.ggpht.com/TTkOTgbQIrsuPPr8wHRSfE4ACAuKbi6iemUIGiQ5h5okbHW6DbrjIE5p7VBS3KF3rXqQSBihLxk=s88-c-k-c0x00ffffff-no-rj"
+thumb = "https://yt3.ggpht.com/TTkOTgbQIrsuPPr8wHRSfE4ACAuKbi6iemUIGiQ5h5okbHW6DbrjIE5p7VBS3KF3rXqQSBihLxk=s88-c-k-c0x00ffffff-no-rj"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://www.youtube.com/c/Candaceshow"
+category = ""
+twt=""
 
 [[items]]
 
@@ -409,6 +518,8 @@ thumb = "https://yt3.ggpht.com/ql0B19qH4Fa027W_O5YaowJqgveGRgwiC3zdJ1Lqcl-ry2_za
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/garyvee"
+category = ""
+twt=""
 
 [[items]]
 
@@ -418,6 +529,8 @@ thumb = "https://yt3.ggpht.com/aoJ9M6s2RCOH9-ULFs7ll9aS-viz4wj84VgdGmyJSkPdPySIZ
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/JordanPetersonVideos"
+category = ""
+twt=""
 
 [[items]]
 
@@ -427,6 +540,8 @@ thumb = "https://yt3.ggpht.com/Ccg_DNviUHhg-1XnFOgiWJZtlD_WmjxJ_DIo60TvEVZ8pv047
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/JordanBPetersonClips"
+category = ""
+twt=""
 
 [[items]]
 
@@ -436,6 +551,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLThQPGbiQXjCi3jhCvFSKhzN4uZN_ZXo7uso_54=
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/JockoPodcastOfficial"
+category = ""
+twt=""
 
 [[items]]
 
@@ -445,6 +562,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLQfYGlxvrKj8ECqQ4064bQXNa-4o-U2zSuzf34R=
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/FactsMatterwithRomanBalmakov"
+category = ""
+twt=""
 
 [[items]]
 
@@ -454,6 +573,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLR8P-n08mvlWuSfolUfbmkjUdmPRHkYgxu4s5Vf=
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/ippsec"
+category = ""
+twt=""
 
 [[items]]
 
@@ -463,6 +584,8 @@ thumb = "https://yt3.ggpht.com/6FqcWoHZvrZixaGi1S3Re3Z90SCS3iq2_36hQSnSHQPtQVVky
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/JohnHammond010"
+category = ""
+twt=""
 
 [[items]]
 
@@ -472,6 +595,8 @@ thumb = "https://yt3.ggpht.com/dAQboxu0NGYduhzG7F-J3ggKp0GjDQg5cQ9CSrcMlO5UbcNgZ
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/DavidBombal"
+category = ""
+twt=""
 
 [[items]]
 
@@ -481,6 +606,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLTvGpKlSIw_L607nbu0ceQqZ4h1JrH6sPYP9ocwh
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/hak5"
+category = ""
+twt=""
 
 [[items]]
 
@@ -490,6 +617,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMH
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/HackerSploit"
+category = ""
+twt=""
 
 [[items]]
 
@@ -499,6 +628,8 @@ thumb = "https://yt3.ggpht.com/ytc/AKedOLQ3lMbx56h2vpYz8wwY-JxDe8AUK4Ig2F-Wt8kZE
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/JackRhysider"
+category = ""
+twt=""
 
 [[items]]
 
@@ -508,3 +639,5 @@ thumb = "https://yt3.ggpht.com/fBcLw2sd1xBjVjGVv3DAFAYYxPfy4YBEazGmsclFT0toZfpqU
 alt = "Hugrid Theme"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
 url = "https://www.youtube.com/c/MrBallen"
+category = ""
+twt=""

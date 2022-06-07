@@ -25,7 +25,7 @@ publishdir = "docs"
     buttontext = "Go To Site"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Made with [Hugo](http://gohugo.io). Credits: [gndpwnd](https://github.com/gndpwnd), [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [AeroHub](https://github.com/aerohub)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
