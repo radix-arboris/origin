@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "http://origin.dev00ps.com"
 languageCode = "en-us"
 title = "Origin"
 theme = "hugrid2"
