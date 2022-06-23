@@ -2,7 +2,7 @@
 baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "Origin"
-theme = "hugrid"
+theme = "hugrid2"
 
 googleAnalytics = "UA-XXXXXXXX-Y"
 

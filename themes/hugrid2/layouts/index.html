@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+	{{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body>
+	<div class="container">
+		{{ partial "header.html" . }}
+		<div class="main">
+			<ul id="og-grid" class="og-grid">
+				<h1> InfoSec News </h1>
+				{{ range $.Site.Data.infosec.items }}
+				<li>
+					<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-buttontext="{{.buttontext}}">
+						<img src="{{.thumb}}" style="width:250px;height:250px;" />
+					</a>
+				</li>
+				{{ end }}
+			
+				<h1> Politics </h1>
+				{{ range $.Site.Data.politics.items }}
+				<li>
+					<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-buttontext="{{.buttontext}}">
+						<img src="{{.thumb}}" style="width:250px;height:250px;" />
+					</a>
+				</li>
+				{{ end }}
+
+				<h1> Government </h1>
+				{{ range $.Site.Data.gov.items }}
+				<li>
+					<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-buttontext="{{.buttontext}}">
+						<img src="{{.thumb}}" style="width:250px;height:250px;" />
+					</a>
+				</li>
+				{{ end }}
+
+				<h1> Business </h1>
+				{{ range $.Site.Data.business.items }}
+				<li>
+					<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-buttontext="{{.buttontext}}">
+						<img src="{{.thumb}}" style="width:250px;height:250px;" />
+					</a>
+				</li>
+				{{ end }}
+
+				<h1> Good Listening </h1>
+				{{ range $.Site.Data.goodlistening.items }}
+				<li>
+					<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-buttontext="{{.buttontext}}">
+						<img src="{{.thumb}}" style="width:250px;height:250px;" />
+					</a>
+				</li>
+				{{ end }}
+				<h1> Quick Twitter </h1>
+				{{ range $.Site.Data.quicktwtr.handles }}
+				<li>
+					<a class="twitter-timeline" href="https://twitter.com/{{.twth}}?ref_src=twsrc%5Etfw" width="500px" height="250px">Tweets by {{.twth}}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</li>
+				{{ end }}
+			</ul>
+			{{ partial "footer.html" . }}
+		</div>
+	</div>
+	{{ partial "scripts.html" . }}
+</body>
+
+</html>
