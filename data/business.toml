@@ -4,21 +4,16 @@ title = "Gary Vee"
 image = "https://yt3.ggpht.com/ql0B19qH4Fa027W_O5YaowJqgveGRgwiC3zdJ1Lqcl-ry2_za4qEQIrT8lBaHrC1QWyHtPXM-w=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/ql0B19qH4Fa027W_O5YaowJqgveGRgwiC3zdJ1Lqcl-ry2_za4qEQIrT8lBaHrC1QWyHtPXM-w=s88-c-k-c0x00ffffff-no-rj"
 alt = "Hugrid Theme"
-description = ""
-url = "https://www.youtube.com/c/garyvee"
 
-twt="garyvee"
+url = "https://www.youtube.com/c/garyvee"
 
 [[items]]
 
 title = "Hugrid Theme"
 image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.1pk39PFJ35_IiyRWVUn7HAHaEK%26pid%3DApi&f=1"
 thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.1pk39PFJ35_IiyRWVUn7HAHaEK%26pid%3DApi&f=1"
-alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://finance.yahoo.com/"
 
-twt="false"
+url = "https://finance.yahoo.com/"
 
 
 [[items]]
@@ -26,19 +21,14 @@ twt="false"
 title = "Hugrid Theme"
 image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ePGFp2pByGV_pDn2jXEm3QHaD4%26pid%3DApi&f=1"
 thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ePGFp2pByGV_pDn2jXEm3QHaD4%26pid%3DApi&f=1"
-alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://www.bloomberg.com/"
 
-twt="false"
+url = "https://www.bloomberg.com/"
 
 [[items]]
 
 title = "Hugrid Theme"
 image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.WGPdWErMjdAvKCadRUWx2AHaHa%26pid%3DApi&f=1"
 thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.WGPdWErMjdAvKCadRUWx2AHaHa%26pid%3DApi&f=1"
-alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+
 url = "https://www.foxbusiness.com/"
 
-twt="false"
