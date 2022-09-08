@@ -1,217 +1,313 @@
-[[items]]
+[[handles]]
+twth = "WhiteHouse"
 
-title = "Threat Post"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgoldsteinreport.com%2Fwp-content%2Fuploads%2F2020%2F05%2FThreatPost_logo.png&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgoldsteinreport.com%2Fwp-content%2Fuploads%2F2020%2F05%2FThreatPost_logo.png&f=1&nofb=1"
+[[handles]]
+twth = "POTUS"
 
-url = "https://threatpost.com/"
+[[handles]]
+twth = "VP"
 
-twt="false"
+[[handles]]
+twth = "HouseFloor"
 
-[[items]]
+[[handles]]
+twth = "SenateFloor"
 
-title = "The Hacker News"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l78YYrsM5l4q7xkC1i48G8nkCntMnxvkEtPH5w%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l78YYrsM5l4q7xkC1i48G8nkCntMnxvkEtPH5w%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1"
+[[handles]]
+twth = "CommerceGov"
 
-url = "https://thehackernews.com/"
+[[handles]]
+twth = "TheJusticeDept"
 
-twt="false"
 
 
-[[items]]
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJwE4Plf-7CdpOI0XhRI4OgU23yP9oJ9dNCnyg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJwE4Plf-7CdpOI0XhRI4OgU23yP9oJ9dNCnyg%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1"
+[[handles]]
+twth = "garyvee"
 
-url = "https://www.bleepingcomputer.com/"
+[[handles]]
+twth = "YahooFinance"
 
-twt="false"
+[[handles]]
+twth = "business"
 
+[[handles]]
+twth = "Bloomberg"
 
-[[items]]
+[[handles]]
+twth = "FoxBusiness"
 
-title = "Hugrid Theme"
-image = "https://securityboulevard.com/wp-content/themes/colormag-pro/img/security-boulevard-logo.png"
-thumb = "https://securityboulevard.com/wp-content/themes/colormag-pro/img/security-boulevard-logo.png"
+[[handles]]
+twth = "LewisHowes"
 
-url = "https://securityboulevard.com/"
+[[handles]]
+twth = "CryptoCapo_"
 
-twt="false"
+[[handles]]
+twth = "taylorawelch"
 
+[[handles]]
+twth = "AlexHormozi"
 
-[[items]]
 
-title = "Hugrid Theme"
-image = "https://securityaffairs.co/wordpress/wp-content/uploads/2015/12/logo_SecurityAffairs.png"
-thumb = "https://securityaffairs.co/wordpress/wp-content/uploads/2015/12/logo_SecurityAffairs.png"
 
-url = "https://securityaffairs.co/"
 
-twt="false"
+[[handles]]
+twth = "threatpost"
 
-[[items]]
+[[handles]]
+twth = "TheHackersNews"
 
-title = "Hugrid Theme"
-image = "https://www.theregister.com/design_picker/fa16d26efb42e6ba1052f1d387470f643c5aa18d/graphics/std/reg_logo_no_strapline.png"
-thumb = "https://www.theregister.com/design_picker/fa16d26efb42e6ba1052f1d387470f643c5aa18d/graphics/std/reg_logo_no_strapline.png"
+[[handles]]
+twth = "BleepinComputer"
 
-url = "https://www.theregister.com/"
+[[handles]]
+twth = "securityblvd"
 
-twt="false"
+[[handles]]
+twth = "securityaffairs"
 
+[[handles]]
+twth = "TheRegister"
 
-[[items]]
+[[handles]]
+twth = "PenTestPartners"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stjohnpatrick.com%2F14%2Fec%2Fconference%2F2016%2Fpentest-partners.jpg&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stjohnpatrick.com%2F14%2Fec%2Fconference%2F2016%2Fpentest-partners.jpg&f=1&nofb=1"
+[[handles]]
+twth = "DarkReading"
 
-url = "https://www.pentestpartners.com/"
+[[handles]]
+twth = "welivesecurity"
 
-twt="false"
+[[handles]]
+twth = "emsisoft"
 
+[[handles]]
+twth = "varonis"
 
-[[items]]
+[[handles]]
+twth = "NightLion"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F37prime.com%2Fnews%2Fwp-content%2Fuploads%2F2014%2F12%2FArs-Technica.png&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F37prime.com%2Fnews%2Fwp-content%2Fuploads%2F2014%2F12%2FArs-Technica.png&f=1&nofb=1"
+[[handles]]
+twth = "proofpoint"
 
-url = "https://arstechnica.com/information-technology/"
+[[handles]]
+twth = "Malwarebytes"
 
-twt="false"
+[[handles]]
+twth = "MBThreatIntel"
 
-[[items]]
+[[handles]]
+twth = "ippsec"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fforescout-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fdark-reading-logo.png&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fforescout-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fdark-reading-logo.png&f=1&nofb=1"
+[[handles]]
+twth = "_JohnHammond"
 
-url = "https://www.darkreading.com/"
+[[handles]]
+twth = "davidbombal"
 
-twt="false"
+[[handles]]
+twth = "Hak5"
 
+[[handles]]
+twth = "HackerSploit"
 
-[[items]]
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F717293744668688384%2F3rzlxTwA_400x400.jpg&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F717293744668688384%2F3rzlxTwA_400x400.jpg&f=1&nofb=1"
+[[handles]]
+twth = "arstechnica"
 
-url = "https://www.welivesecurity.com/"
+[[handles]]
+twth = "TheAtlantic"
 
-twt="false"
+[[handles]]
+twth = "TheRecord_Media"
 
+[[handles]]
+twth = "WIRED"
 
-[[items]]
+[[handles]]
+twth = "ZDNet"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvpnreviewz.com%2Fwp-content%2Fuploads%2Fkrebs-on-security.jpg&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvpnreviewz.com%2Fwp-content%2Fuploads%2Fkrebs-on-security.jpg&f=1&nofb=1"
+[[handles]]
+twth = "Medium"
 
-url = "https://krebsonsecurity.com/"
+[[handles]]
+twth = "TheEpochTimesTR"
 
-twt="false"
+[[handles]]
+twth = "DailyWireNews"
 
-[[items]]
+[[handles]]
+twth = "YahooNews"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.606DHrJUgIIbkL0iw7I90gHaCe%26pid%3DApi&f=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.606DHrJUgIIbkL0iw7I90gHaCe%26pid%3DApi&f=1"
+[[handles]]
+twth = "nytimes"
 
-url = "https://blog.emsisoft.com/en/"
+[[handles]]
+twth = "washingtonpost"
 
-twt="false"
+[[handles]]
+twth = "FoxNews"
 
-[[items]]
+[[handles]]
+twth = "politico"
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.boldonjames.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fvaronis-TP-BIG-1000-753x331.png&f=1&nofb=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.boldonjames.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fvaronis-TP-BIG-1000-753x331.png&f=1&nofb=1"
+[[handles]]
+twth = "Reuters"
 
-url = "https://www.varonis.com/blog"
+[[handles]]
+twth = "Timcast"
 
-twt="false"
+[[handles]]
+twth = "benshapiro"
 
-[[items]]
+[[handles]]
+twth = "michaeljknowles"
 
-title = "Hugrid Theme"
-image = "https://nightlion.com/wp-content/uploads/2020/11/main-logo.png"
-thumb = "https://nightlion.com/wp-content/uploads/2020/11/main-logo.png"
+[[handles]]
+twth = "RealCandaceO"
 
-url = "https://nightlion.com/blog/"
+[[handles]]
+twth = "scrowder"
 
-twt="false"
+[[handles]]
+twth = "CNBC"
 
+[[handles]]
+twth = "CNN"
 
-[[items]]
+[[handles]]
+twth = "MSNBC"
 
-title = "Hugrid Theme"
-image = "https://www.proofpoint.com/themes/custom/proofpoint/dist/app-drupal/assets/logo-reg.svg"
-thumb = "https://www.proofpoint.com/themes/custom/proofpoint/dist/app-drupal/assets/logo-reg.svg"
 
-url = "https://www.proofpoint.com/us/blog"
 
-twt="false"
 
-[[items]]
 
-title = "Hugrid Theme"
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP._AW9nvh3hBjHxxGn31QbqgHaBy%26pid%3DApi&f=1"
-thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP._AW9nvh3hBjHxxGn31QbqgHaBy%26pid%3DApi&f=1"
 
-url = "https://blog.malwarebytes.com/malwarebytes-news/"
+[[handles]]
+twth = "CIA"
 
-twt="false"
+[[handles]]
+twth = "NSACyber"
 
-[[items]]
+[[handles]]
+twth = "NSAGov"
 
-title = "ippsec"
-image = "https://yt3.ggpht.com/ytc/AKedOLR8P-n08mvlWuSfolUfbmkjUdmPRHkYgxu4s5Vf=s88-c-k-c0x00ffffff-no-rj"
-thumb = "https://yt3.ggpht.com/ytc/AKedOLR8P-n08mvlWuSfolUfbmkjUdmPRHkYgxu4s5Vf=s88-c-k-c0x00ffffff-no-rj"
+[[handles]]
+twth = "US_CYBERCOM"
 
-url = "https://www.youtube.com/c/ippsec"
+[[handles]]
+twth = "USArmy"
 
-twt="false"
+[[handles]]
+twth = "USNavy"
 
-[[items]]
+[[handles]]
+twth = "USMC"
 
-title = "JohnHammond010"
-image = "https://yt3.ggpht.com/6FqcWoHZvrZixaGi1S3Re3Z90SCS3iq2_36hQSnSHQPtQVVkywH8WKka53MiBYBSP6DmqM-g9w=s88-c-k-c0x00ffffff-no-rj"
-thumb = "https://yt3.ggpht.com/6FqcWoHZvrZixaGi1S3Re3Z90SCS3iq2_36hQSnSHQPtQVVkywH8WKka53MiBYBSP6DmqM-g9w=s88-c-k-c0x00ffffff-no-rj"
+[[handles]]
+twth = "USCG"
 
-url = "https://www.youtube.com/c/JohnHammond010"
+[[handles]]
+twth = "usairforce"
 
-twt="false"
+[[handles]]
+twth = "ARCYBER"
 
-[[items]]
+[[handles]]
+twth = "NCDOC_PAO"
 
-title = "DavidBombal"
-image = "https://yt3.ggpht.com/dAQboxu0NGYduhzG7F-J3ggKp0GjDQg5cQ9CSrcMlO5UbcNgZ0IaDJuKNnFQkAn9NfEEjY9O=s88-c-k-c0x00ffffff-no-rj"
-thumb = "https://yt3.ggpht.com/dAQboxu0NGYduhzG7F-J3ggKp0GjDQg5cQ9CSrcMlO5UbcNgZ0IaDJuKNnFQkAn9NfEEjY9O=s88-c-k-c0x00ffffff-no-rj"
+[[handles]]
+twth = "16AF_AFCYBER"
 
-url = "https://www.youtube.com/c/DavidBombal"
+[[handles]]
+twth = "AFSpecOpsCmd"
 
-twt="false"
+[[handles]]
+twth = "DCSAgov"
 
-[[items]]
+[[handles]]
+twth = "MARFORCYBER"
 
-title = "hak5"
-image = "https://yt3.ggpht.com/ytc/AKedOLTvGpKlSIw_L607nbu0ceQqZ4h1JrH6sPYP9ocwhA=s88-c-k-c0x00ffffff-no-rj"
-thumb = "https://yt3.ggpht.com/ytc/AKedOLTvGpKlSIw_L607nbu0ceQqZ4h1JrH6sPYP9ocwhA=s88-c-k-c0x00ffffff-no-rj"
 
-url = "https://www.youtube.com/c/hak5"
 
-twt="false"
 
-[[items]]
+[[handles]]
+twth = "DEFENCE_HQ"
 
-title = "HackerSploit"
-image = "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s88-c-k-c0x00ffffff-no-rj"
-thumb = "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s88-c-k-c0x00ffffff-no-rj"
 
-url = "https://www.youtube.com/c/HackerSploit"
 
-twt="false"
+[[handles]]
+twth = "darktracer_int"
+
+[[handles]]
+twth = "CVEannounce"
+
+[[handles]]
+twth = "OxMstar"
+
+[[handles]]
+twth = "SecurityWeek"
+
+[[handles]]
+twth = "DarkReading"
+
+[[handles]]
+twth = "novahackers"
+
+[[handles]]
+twth = "virustotal"
+
+[[handles]]
+twth = "BoeingDefense"
+
+[[handles]]
+twth = "DrAzureAD"
+
+[[handles]]
+twth = "BarbossaOx"
+
+[[handles]]
+twth = "msftsecurity"
+
+[[handles]]
+twth = "virusbtn"
+
+[[handles]]
+twth = "ESETresearch"
+
+[[handles]]
+twth = "SophosLabs"
+
+[[handles]]
+twth = "RiskIQ"
+
+[[handles]]
+twth = "payloadartist"
+
+[[handles]]
+twth = "CuratedIntel"
+
+[[handles]]
+twth = "Bad_Packets"
+
+[[handles]]
+twth = "exploitph"
+
+[[handles]]
+twth = "RansomAlert"
+
+
+
+
+[[handles]]
+twth = "jordanbpeterson"
+
+[[handles]]
+twth = "jockowillink"
+
+[[handles]]
+twth = "JackRhysider"
+
+[[handles]]
+twth = "Morpheusresist"

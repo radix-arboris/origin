@@ -1,36 +1,47 @@
 [[items]]
 
-title = "Hugrid Theme"
+title = "The White House"
 image = "http://www.realclearlife.com/wp-content/uploads/2016/06/white-house-logo-final-hed-2016.jpg"
 thumb = "http://www.realclearlife.com/wp-content/uploads/2016/06/white-house-logo-final-hed-2016.jpg"
-
+alt = "The White House"
+desc = "Statements and Releases"
 url = "https://www.whitehouse.gov/briefing-room/statements-releases/"
 
 [[items]]
 
-title = "Hugrid Theme"
+title = "Congress Bills"
 image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectemployers.org%2Fwp-content%2Fuploads%2FUS-House-of-Representatives-Seal.jpg&f=1&nofb=1"
 thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdirectemployers.org%2Fwp-content%2Fuploads%2FUS-House-of-Representatives-Seal.jpg&f=1&nofb=1"
-
+alt = "Congress Legislation"
+desc = "Track legislation in the US congress"
 url = "https://www.govtrack.us/congress/bills/"
 
+[[items]]
+
+title = "Senate Bills"
+image = "https://searx.tiekoetter.com/image_proxy?url=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.2c7GiJSqFQGrp9EI1wqcVwHaHV%26pid%3D15.1&h=c4016e875212d7159c0c9a8941cd8e629b59fe20527a01016166eb05c96be0c4"
+thumb = "https://searx.tiekoetter.com/image_proxy?url=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.2c7GiJSqFQGrp9EI1wqcVwHaHV%26pid%3D15.1&h=c4016e875212d7159c0c9a8941cd8e629b59fe20527a01016166eb05c96be0c4"
+alt = "Senate Legislation"
+desc = "Track legislation in the US Senate"
+url = "https://www.senate.gov/legislative/bills_acts_laws.htm"
+
 
 [[items]]
 
-title = "Hugrid Theme"
+title = "US Commerce"
 image = "https://www.commerce.gov/themes/custom/commerce/assets/img/doc_logo.png"
 thumb = "https://www.commerce.gov/themes/custom/commerce/assets/img/doc_logo.png"
-
+alt = "US Commerce"
+desc = "Press Releases"
 url = "https://www.commerce.gov/news/press-releases"
 
-twt="false"
 
 [[items]]
 
-title = "Hugrid Theme"
+title = "Justice Gov"
 image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FSeal_of_the_United_States_Department_of_Justice.svg%2F1200px-Seal_of_the_United_States_Department_of_Justice.svg.png&f=1&nofb=1"
 thumb = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FSeal_of_the_United_States_Department_of_Justice.svg%2F1200px-Seal_of_the_United_States_Department_of_Justice.svg.png&f=1&nofb=1"
-
+alt = "Justice Gov"
+desc = "Press Releases"
 url = "https://www.justice.gov/blogs"
 
-twt="false"

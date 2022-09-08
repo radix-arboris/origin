@@ -5,46 +5,47 @@
 title = "Jordan Peterson"
 image = "https://yt3.ggpht.com/aoJ9M6s2RCOH9-ULFs7ll9aS-viz4wj84VgdGmyJSkPdPySIZggg2nwyt5YGlLnfE5DTzt3J34s=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/aoJ9M6s2RCOH9-ULFs7ll9aS-viz4wj84VgdGmyJSkPdPySIZggg2nwyt5YGlLnfE5DTzt3J34s=s88-c-k-c0x00ffffff-no-rj"
-
+alt = "Jordan Peterson"
+desc = "Jordan B. Peterson is a Canadian professor of psychology, clinical psychologist, YouTube personality, best-selling author and host of the #1 Education Podcast, \"The Jordan B. Peterson Podcast\". This channel features videos from his classes, his podcasts, interviews, book tours and lectures. You can watch the incredibly popular lecture series \"Personality and Its Transformations\", \"Maps of Meaning: The Architecture of Belief\", as well as his \"The Psychological Significance of the Biblical Stories\" lectures for free."
 url = "https://www.youtube.com/c/JordanPetersonVideos"
 category = ""
-twt=""
 
 [[items]]
 
 title = "Jordan B Peterson Clips"
 image = "https://yt3.ggpht.com/Ccg_DNviUHhg-1XnFOgiWJZtlD_WmjxJ_DIo60TvEVZ8pv047YJNdK_9Y01cLFHtJzOpM_Ctvw=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/Ccg_DNviUHhg-1XnFOgiWJZtlD_WmjxJ_DIo60TvEVZ8pv047YJNdK_9Y01cLFHtJzOpM_Ctvw=s88-c-k-c0x00ffffff-no-rj"
-
+alt = "Jordan B Peterson Clips"
+desc = "This channel consists of official clipped videos of Dr. Jordan B Peterson's content. Dr. Peterson is a professor and clinical psychologist. The clips are derived from lectures, interviews, and self-uploaded videos. This channel will occasionally release clips prior to the full videos on https://www.youtube.com/user/JordanPetersonVideos."
 url = "https://www.youtube.com/c/JordanBPetersonClips"
 category = ""
-twt=""
 
 [[items]]
 
 title = "Jocko Podcast"
 image = "https://yt3.ggpht.com/ytc/AKedOLThQPGbiQXjCi3jhCvFSKhzN4uZN_ZXo7uso_54=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/ytc/AKedOLThQPGbiQXjCi3jhCvFSKhzN4uZN_ZXo7uso_54=s88-c-k-c0x00ffffff-no-rj"
-
+alt = "Jocko Podcast"
+desc = "Jocko Willink and Echo Charles discuss discipline and leadership... extensively."
 url = "https://www.youtube.com/c/JockoPodcastOfficial"
 category = ""
-twt=""
 
 [[items]]
 
 title = "JackRhysider"
 image = "https://yt3.ggpht.com/ytc/AKedOLQ3lMbx56h2vpYz8wwY-JxDe8AUK4Ig2F-Wt8kZEQ=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/ytc/AKedOLQ3lMbx56h2vpYz8wwY-JxDe8AUK4Ig2F-Wt8kZEQ=s88-c-k-c0x00ffffff-no-rj"
-
+alt = "Jack Rhysider"
+desc = "I'm fascinated by what happens in the dark parts of the Internet. Come with me and let's shine some light on it and see what's there. "
 url = "https://www.youtube.com/c/JackRhysider"
 category = ""
-twt=""
 
 [[items]]
 
 title = "MrBallen"
 image = "https://yt3.ggpht.com/fBcLw2sd1xBjVjGVv3DAFAYYxPfy4YBEazGmsclFT0toZfpqUar-VQurFSf6hz6REvY7sKR09Q=s88-c-k-c0x00ffffff-no-rj"
 thumb = "https://yt3.ggpht.com/fBcLw2sd1xBjVjGVv3DAFAYYxPfy4YBEazGmsclFT0toZfpqUar-VQurFSf6hz6REvY7sKR09Q=s88-c-k-c0x00ffffff-no-rj"
+alt = "MrBallen"
+desc = "I tell strange, dark & mysterious stories."
 url = "https://www.youtube.com/c/MrBallen"
 category = ""
-twt=""
