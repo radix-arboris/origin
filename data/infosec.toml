@@ -86,9 +86,6 @@ twth = "emsisoft"
 twth = "varonis"
 
 [[handles]]
-twth = "NightLion"
-
-[[handles]]
 twth = "proofpoint"
 
 [[handles]]
@@ -277,7 +274,7 @@ twth = "virusbtn"
 twth = "ESETresearch"
 
 [[handles]]
-twth = "SophosLabs"
+twth = "SophosXOps"
 
 [[handles]]
 twth = "RiskIQ"
