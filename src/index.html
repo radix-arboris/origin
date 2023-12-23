@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="browser-container">
+    <webview id="browser-frame"></webview>
+  </div>
+
+  <!-- Left Arrow -->
+  <div id="navigation-arrows">
+    <div id="prev-arrow" onclick="navigate(-1)">←</div>
+
+    <!-- Right Arrow -->
+    <div id="next-arrow" onclick="navigate(1)">→</div>
+  </div>
+
+  <script src="preload.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
